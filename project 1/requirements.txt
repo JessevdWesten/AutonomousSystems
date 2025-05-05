@@ -1,0 +1,14 @@
+# Core dependencies
+gymnasium>=0.28.1  # Voor de Blackjack environment
+numpy>=1.21.0      # Voor eventuele berekeningen
+
+# Testing frameworks
+pytest>=7.0.0      # Hoofd-testframework
+pytest-cov>=3.0.0  # Voor test coverage rapporten
+
+# Development tools
+ipykernel>=6.0     # Voor Jupyter notebook ondersteuning
+
+# Optioneel voor geavanceerde analyses
+pandas>=1.3.0      # Voor data-analyse van testresultaten
+matplotlib>=3.5.0  # Voor visualisaties
