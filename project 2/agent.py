@@ -6,7 +6,7 @@ from collections import deque
 import time
 from tqdm import tqdm  # For progress bars
 
-# Vibecoded Taxi-v3 Reinforcement Learning with:
+# Autonomous TAXI Jesse Jesse Luca Samii
 # 1. Decaying Epsilon-Greedy Strategy
 # 2. Experience Replay
 # 3. Optimized Parameters
