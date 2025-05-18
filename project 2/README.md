@@ -1,4 +1,4 @@
-# Taxi-v3 Q-Learning
+# Taxi-v3 Q-Learning Autonomous Systems
  A simple Q-learning implementation in OpenAI Gym's "Taxi-v3" environment.
  
 ## What is OpenAI Gym?
